@@ -1,7 +1,6 @@
 # Algorithms
 Here I stack implementations of common algorithms.
-#
-NAV
 
+#NAV
 Folder - sorting
 -It contains sorting algorithms
